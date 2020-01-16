@@ -1,1 +1,1 @@
-console.log("Welcome123");
+console.log("Welcome");
